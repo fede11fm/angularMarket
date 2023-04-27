@@ -28,3 +28,7 @@ div button{
     opacity: .8;
     outline: none;
 }
+div button:hover{
+    opacity: 1;
+    cursor: pointer;
+}
