@@ -1,5 +1,6 @@
 header{
-    background:white;
+    background-image: url('../../assets/images/15.jpg');
+    background-position: center; background-repeat: no-repeat;
     padding: 0;
     border-bottom: 1px solid;
 }

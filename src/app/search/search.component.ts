@@ -18,7 +18,7 @@ ngOnInit(): void {
   );
 
 }
-Search():void{
+Search():void{ 
   if(this.SearchTerm)
   this.router.navigateByUrl('/search/'+ this.SearchTerm)
     

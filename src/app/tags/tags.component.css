@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+div a{
+    background-color: rgba(236, 228, 228, 0.747);
+    padding: .3rem 1 rem;
+    margin: .2rem .15rem;
+    border-radius: 10rem;
+    font-weight: 600;
+    color: rgb(158, 3, 3);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

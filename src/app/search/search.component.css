@@ -1,8 +1,8 @@
 div{
     display: flex;
     justify-content: center;
-    margin-top: 3rem;
-    margin-bottom: 1.5rem;
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
 }
 div input{
     border-radius: 15rem 0 0 15rem;
